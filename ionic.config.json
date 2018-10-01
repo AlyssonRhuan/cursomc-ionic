@@ -1,0 +1,7 @@
+{
+  "name": "cursomcionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
